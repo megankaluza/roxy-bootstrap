@@ -1,8 +1,10 @@
 # _Roxy.com/snow Mock-Up_
 
-#### _12/1/16_
+#### _Epicodus: Bootstrap Lesson 12/1/16_
 
 #### By _**Megan Kaluza & Garrett Price**_
+
+![screenshot](screen_shot.png)
 
 ## Description
 
@@ -10,8 +12,8 @@ _This webpage is a re-creation of the roxy.com/snow website. This Mock site is b
 
 ## Setup/Installation Requirements
 
-* _Check out the GitHub Pages: https://megankaluza.github.io/transparent-cards_
-* _Clone this repository https://github.com/megankaluza/https://github.com/megankaluza/transparent-cards.git_
+* _Check out the GitHub Pages: https://megankaluza.github.io/roxy-bootstrap_
+* _Clone this repository https://github.com/megankaluza/https://github.com/megankaluza/roxy-bootstrap.git_
 * _Open index.html in your favorite web browser_
 
 ## Known Bugs
@@ -21,6 +23,7 @@ _No known bugs at this time_
 ## Support and contact details
 
 _garrettleeprice@gmail.com_
+_megan.kaluza@gmail.com_
 
 ## Technologies Used
 
