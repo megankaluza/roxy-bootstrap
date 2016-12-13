@@ -10,7 +10,8 @@ _This webpage is a re-creation of the roxy.com/snow website. This Mock site is b
 
 ## Setup/Installation Requirements
 
-* _Clone this repository form github
+* _Check out the GitHub Pages: https://megankaluza.github.io/transparent-cards_
+* _Clone this repository https://github.com/megankaluza/https://github.com/megankaluza/transparent-cards.git_
 * _Open index.html in your favorite web browser_
 
 ## Known Bugs
