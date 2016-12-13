@@ -22,8 +22,8 @@ _No known bugs at this time_
 
 ## Support and contact details
 
-_garrettleeprice@gmail.com_
-_megan.kaluza@gmail.com_
+* Garrett Price: _garrettleeprice@gmail.com_
+* Megan Kaluza: _megan.kaluza@gmail.com_
 
 ## Technologies Used
 
